@@ -1,7 +1,7 @@
 # Firehouse-0ptimus-Dem-Primary-February-2019
 This repo contains outputs from our Iowa, New Hampshire, and South Carolina Democratic Caucus/Primary Poll conducted January 31, 2019 - February 2, 2019.
 
-<a href="">Methodology Statement</a>
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-February-2019/blob/master/Firehouse_0ptimus_January_February_Methodology_Statement.pdf">Methodology Statement</a>
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-February-2019/blob/master/FH_0ptimus_0202_IA_Toplines.pdf">IA Toplines</a>
 
